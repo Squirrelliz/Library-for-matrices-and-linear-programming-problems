@@ -1,0 +1,3 @@
+C:/Users/squir/CLionProjects/iop/cmake-build-debug/CMakeFiles/iop.dir
+C:/Users/squir/CLionProjects/iop/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/squir/CLionProjects/iop/cmake-build-debug/CMakeFiles/rebuild_cache.dir
